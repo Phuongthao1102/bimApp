@@ -35,6 +35,6 @@ Label.height {
 Label.weight {
    -fx-font-size: 15;
    -fx-text-fill: red;
-   -fx-stroke: black;
+   -fx-stroke: blue;
    -fx-stroke-width: 2;
 }
